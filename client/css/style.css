@@ -1,0 +1,38 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.background{
+     
+      /* The image used */
+      background-image: url('../img/terrace.jpg');
+    
+      /* Full height */
+      height:100vh; 
+    
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+     
+ }
+ .landing-title {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  
+}
+.border{
+  color: #fff;
+  padding: 18px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+
+}
+
